@@ -19,7 +19,7 @@ void loop() {
     Serial.println("error!");
   }
 
-  delay(1000); //s
+  delay(3000); //3s
 }
 
 long readUltrasonic(){
